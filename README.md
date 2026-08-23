@@ -148,7 +148,7 @@ No external frontend framework or backend server is required
 
 # Requirements / Installations
 
-## Hardware Requirements
+**Hardware Requirements**
 
 - 1× ESP32 development board
 - 1× BMP180 pressure sensor
@@ -160,7 +160,7 @@ No external frontend framework or backend server is required
 - USB cable
 - Wi-Fi network
 
-## Software Requirements
+**Software Requirements**
 
 - Arduino IDE
 - ESP32 board support package
@@ -168,7 +168,7 @@ No external frontend framework or backend server is required
 - A modern web browser
 - A Wi-Fi network accessible by both the ESP32 and monitoring device
 
-## Installation
+**Installation**
 
 1. Install Arduino IDE.
 2. Add ESP32 board support.
