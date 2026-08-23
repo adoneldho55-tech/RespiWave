@@ -39,12 +39,15 @@ The project is designed as a foundation for a patient-monitoring and safety-orie
    *RespiWave's live web dashboard streaming real-time barometric pressure, motion vectors, and device telemetry over the local network.*
 # Video
 
-<video src="media/demo_video.mp4" poster="media/respiwave_cover_image.jpeg" controls width="100%">
-  Your browser does not support the video tag.
-</video>
 
-[📹 Watch raw demo video](media/demo_video.mp4)
 
+https://github.com/user-attachments/assets/b67f0c07-04c4-4afb-aabb-3d942d4a7986
+
+
+
+
+
+  _RespiWave demo video_
 ---
 
 # Features (Detailed)
