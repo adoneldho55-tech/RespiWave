@@ -1,4 +1,5 @@
-<img width="1600" height="1197" alt="respiwave_cover_image" src="https://github.com/user-attachments/assets/656007e3-e98c-41a9-ba86-c7160225d21f" />
+<img width="1859" height="846" alt="respiwave" src="https://github.com/user-attachments/assets/ec20dae8-82b1-4129-8c00-402dec085c7b" />
+
 
 # RespiWave
 
