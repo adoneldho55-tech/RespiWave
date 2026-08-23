@@ -23,22 +23,27 @@ The project is designed as a foundation for a patient-monitoring and safety-orie
 
 # Images
 
-![[respiwave_cover_image.jpeg]]
-
-*The core hardware build for RespiWave, featuring a modular ESP32 setup streaming real-time sensor telemetry to an onboard OLED display.*
+<img width="1600" height="1197" alt="respiwave_cover_image" src="https://github.com/user-attachments/assets/656007e3-e98c-41a9-ba86-c7160225d21f" />
 
 
-![[respiwave_demo_image.jpeg]]
+   *The core hardware build for RespiWave, featuring a modular ESP32 setup streaming real-time sensor telemetry to an onboard OLED display.*
 
-*Real-time telemetry streaming straight from a modular ESP32 sensor array to a live web dashboard.*
 
-![[respiwave_web_interface.jpeg]]
+<img width="1080" height="1440" alt="respiwave_demo_image" src="https://github.com/user-attachments/assets/f3d4ecf8-5516-44c6-8c41-a73e85c50ad2" />
 
-*RespiWave's live web dashboard streaming real-time barometric pressure, motion vectors, and device telemetry over the local network.*
+
+   *Real-time telemetry streaming straight from a modular ESP32 sensor array to a live web dashboard.*
+
+<img width="1600" height="1071" alt="respiwave_web_interface" src="https://github.com/user-attachments/assets/90311a0d-c377-4569-844d-cc7685e68379" />
+
+   *RespiWave's live web dashboard streaming real-time barometric pressure, motion vectors, and device telemetry over the local network.*
 # Video
 
-![[demo_video.mp4]]
+<video src="media/demo_video.mp4" poster="media/respiwave_cover_image.jpeg" controls width="100%">
+  Your browser does not support the video tag.
+</video>
 
+[📹 Watch raw demo video](media/demo_video.mp4)
 
 ---
 
