@@ -1,9 +1,15 @@
+<img width="1600" height="1197" alt="respiwave_cover_image" src="https://github.com/user-attachments/assets/656007e3-e98c-41a9-ba86-c7160225d21f" />
+
+# RespiWave
+
 
 # Acknowledgement
 
 RespiWave is built using open-source hardware and software components. The project makes use of the ESP32 platform along with libraries from the Adafruit ecosystem for interfacing with the SSD1306 OLED display, BMP180 pressure sensor, MPU6050 motion sensor, and APDS9960 gesture sensor.
 
 Special thanks to the open-source hardware and software communities whose libraries, documentation, and development tools make projects such as RespiWave possible.
+
+---
 
 # Overview
 
@@ -18,6 +24,8 @@ The project is designed as a foundation for a patient-monitoring and safety-orie
 **Who is it for:** RespiWave is designed for **students, makers, developers, and researchers** exploring ESP32, IoT, and multi-sensor monitoring systems. It can also serve as a foundation for healthcare-oriented prototypes and sensor-based applications. It is currently a **prototype and development platform**, not a certified medical device.
 
 **Key Features:** RespiWave combines **BMP180 pressure monitoring, MPU6050 motion and temperature sensing, APDS9960 touchless gestures, and an SSD1306 OLED display** with Wi-Fi connectivity. It provides a **responsive real-time web dashboard**, live JSON API, visual system and buzzer status, gesture-based alarm control, and requires **no external server or database**.
+
+---
 
 # Demo/Examples
 
@@ -48,6 +56,7 @@ https://github.com/user-attachments/assets/b67f0c07-04c4-4afb-aabb-3d942d4a7986
 
 
   _RespiWave demo video_
+  
 ---
 
 # Features (Detailed)
@@ -83,6 +92,8 @@ A `/data` JSON endpoint provides the latest sensor readings and system informati
 
 The ESP32 connects directly to a configured Wi-Fi network and serves the complete monitoring dashboard over HTTP, allowing the system to be accessed from any device on the same network.
 
+---
+
 # Usage Instructions
 
 1. **Connect the Hardware**  
@@ -102,6 +113,8 @@ The ESP32 connects directly to a configured Wi-Fi network and serves the complet
     
 6. **Monitor**  
     View live **pressure, temperature, acceleration, system status, buzzer state, and gestures** through the dashboard and OLED display.
+
+---
 
 # Tech Stack
 
@@ -130,6 +143,9 @@ The ESP32 connects directly to a configured Wi-Fi network and serves the complet
 - JSON
 
 No external frontend framework or backend server is required
+
+---
+
 # Requirements / Installations
 
 ## Hardware Requirements
@@ -166,6 +182,8 @@ No external frontend framework or backend server is required
 10. Obtain the ESP32 IP address.
 11. Open that IP address in a browser on the same network.
 
+---
+
 # File structure
 
 ```
@@ -179,8 +197,14 @@ Respiwave/
 │   └── respiwave_web_interface.jpeg
 └── README.md
 ```
+
+---
+
 # License 
 
 RespiWave is released under the MIT License.
+
+---
+
 # Contribution
 
