@@ -1,7 +1,7 @@
 <img width="1859" height="846" alt="respiwave" src="https://github.com/user-attachments/assets/ec20dae8-82b1-4129-8c00-402dec085c7b" />
 
 
-# RespiWave
+# RespiWave: Wearable Respiratory Waveform Mapping Using Micro-Barometric Sensors
 
 
 # Acknowledgement
@@ -208,4 +208,6 @@ RespiWave is released under the MIT License.
 ---
 
 # Contribution
+
+**Contributions are welcome—feel free to improve the firmware, dashboard, sensor integration, documentation, or add new features while keeping the project lightweight and reliable.**
 
