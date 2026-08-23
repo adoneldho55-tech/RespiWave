@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "README"
             }
           }
         ]
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1d2653ce7bb5f6c6",
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -171,7 +170,8 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -189,9 +189,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "3edf0db1fe20bb50",
+  "active": "f8fa32625c8ac017",
   "lastOpenFiles": [
-    "demo_video.mp4",
+    "code/respiwave.ino",
+    "code",
+    "Untitled Folder",
+    "media/respiwave_web_interface.jpeg",
+    "media/respiwave_demo_image.jpeg",
+    "media/respiwave_cover_image.jpeg",
+    "media/demo_video.mp4",
+    "media",
+    "images/demo_video.mp4",
+    "images/respiwave_web_interface.jpeg",
+    "images",
+    "images/respiwave_demo_image.jpeg",
+    "images/respiwave_cover_image.jpeg",
+    "README.md",
+    "Unconfirmed 211421.crdownload",
+    "Unconfirmed 67424.crdownload",
+    "Unconfirmed 827496.crdownload",
     "respiwave.ino"
   ]
 }
